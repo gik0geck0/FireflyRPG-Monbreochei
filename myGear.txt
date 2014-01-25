@@ -1,0 +1,97 @@
+Current inventory:
+Light armor
+brass knucles d4 damage
+vibroblade d6. on roll of 6, shock enemy
+ocular with range finding
+4 satchel charges
+Circuit plans
+
+Home box:
+5 crystals. Could be used for lightsabers
+    1 in use in my lightsaber
+    1 is green
+
+3 magnetic-alignment circuits (full-circuit for alignment, proven to work)
+    1 in use in my lightsaber
+
+3 lightsaber housings
+    1 in use for my lightsaber
+
+1 mr.fusion for lightsaber use
+    currently in use
+10 sets of parts for a mr. fusion ordered from the keltic guys. 1 mo wait time
+
+12781 creds
+325 plat
+
+Can find weapons off a moon between Harah and the planet we're going to
+
+Agy     12              Athl    6
+                            force-telekinesis   2
+Str     4               Covert  2
+Vit     6               Know    6
+Alt     12                  Quant   6
+Int     12
+Wil     4               Med     6
+                            gen     2
+
+                        Melee   6
+                        Perc    6
+                            force-awareness 4
+                            tact    2
+
+                        Pilot   6
+                            large   10
+                            small   4
+
+                        Sci     4
+                        Tech    6
+                            elec    6
+                        Unarm   6
+                            MMA     4
+
+Life:       10
+stn life:   9
+
+Ship life: 3
+Ship wound: 2
+
+fit mr.fusion inside lightsaber! YAY!
+
+14 advancement
+6 plot
+
+Session 2
++2 plot points for surviving
++2 for being told to go on watch
++3 plot for survival -> adv
++2 plotfor pilot
++3 advancement points
+                            large   10
+
+Session 3
+buy:    Global Navigation System    14
+        10 earwigs                  20
+        punchpad                    17
+                                    41
+Session 5
+    +8 plot points for survival
+    +2 for surprises
+
+Session 6
+    Purchase 5 crystals for 2500
+    +3 for ... yup
+The love making calls of lesbian T-rexes
+
+Session 7
+    left dinosaur planet
+
+Session 8
+    fly to the moon of Harah: Aberdine
+Session ???
+    Giant bar fight, and got 3 lightsaber handles
+
+What I need for the lab
+CNC Machine
+Circuit creator (3D Printer)
+Many bins of parts
